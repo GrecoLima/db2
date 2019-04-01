@@ -1,17 +1,17 @@
 # DB2
 
-##Estrutura de armazenamento DB2
+## Estrutura de armazenamento DB2
 
-####Database
+#### Database
     Objeto ultilizado para agrupar outros objetos.
 
-#####Storage Group
+##### Storage Group
     Conjunto de discos que armazenam os dados fisicamente das *Tabelas* e *Index*.
 
-#####Tables
+##### Tables
     No DB2, todos os dados são representados em *table* que são organizados em linhas e colunas.
 
-#####Index
+##### Index
     É criado para agilizar pesquisas acessando diretamente o banco de dados.
 
 
